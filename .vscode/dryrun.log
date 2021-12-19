@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/nickm/Documents/Cedytor'
+cc cedytor.c -o cedytor -Wall -Wextra -pedantic -std=c99
+make: Leaving directory '/home/nickm/Documents/Cedytor'
+ 
